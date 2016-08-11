@@ -161,7 +161,7 @@
 		<g:form action="url"  controller="json" method="post">
 			<div class="url" >
 				<label class="lab">Url</label>
-				<input type="text"  style="height: 30px;width: 330px" name="placehoderUrl"/>
+				<input type="text"  style="height: 30px;width: 330px" name="placehoderUrl" value="project/user/method"/>
 				<span class="buttons">
 					<input type="submit"value="search"/>
 				</span>
