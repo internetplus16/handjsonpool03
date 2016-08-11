@@ -576,18 +576,7 @@ th:hover, tr:hover {
 
 .buttons input,
 .buttons a {
-	/*background-color: #9966ff;
-	border: 0;
-	color: #ffffff;
-	cursor: pointer;
-	display: inline-block;
-	margin: 0 0.25em 0;
-	overflow: visible;
-	padding: 0.25em 0.7em;
-	text-decoration: none;
-	-moz-border-radius: 0.3em;
-	-webkit-border-radius: 0.3em;
-	border-radius: 0.3em;*/
+
 	line-height:30px;
 	height:30px;
 	width:100px;
